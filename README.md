@@ -34,5 +34,5 @@
 </div>  
 </h3>
 
-Discord: thericci
+Discord: thericci <br>
 Email: ricci.contact9@gmail.com
