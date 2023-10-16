@@ -34,4 +34,5 @@
 </div>  
 </h3>
 
+Discord: thericci
 
