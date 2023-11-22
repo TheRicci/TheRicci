@@ -35,4 +35,4 @@
 </h3>
 
 Discord: thericci <br>
-Email: ricci.contact9@gmail.com
+Email: ricci.dev.contact@gmail.com
